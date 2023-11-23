@@ -1,0 +1,17 @@
+{
+	"cachethq_url": "http://cachet:8000/",
+	"monitoring": {
+		"enable_scheduler": true,
+		"url": "http://20.124.52.129/",
+		"service_name": "monitoring",
+		"cachethq_token": "UeEPbwju9k0ud79z4dpo"
+	},
+	"server_port": 8081,
+	"sql_configuration": {
+		"username": "root",
+		"password": "root",
+		"host": "172.17.0.2",
+		"port": 3306,
+		"database": "mariadb"
+	}
+}
